@@ -1,5 +1,6 @@
 "use strict"
 
+import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/styles.css";
 import { removeToDo, fulfillToDo } from "./task_events.js";
 

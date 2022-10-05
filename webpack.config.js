@@ -16,7 +16,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: "My first Webpack app",
+            title: "HW20",
             template: path.resolve(__dirname, "./src/template.html")
         }),
         new CleanWebpackPlugin()
